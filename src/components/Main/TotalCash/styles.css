@@ -1,0 +1,44 @@
+.totalCash-main{
+    padding-bottom: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.totalCash-header{
+    padding : 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.totalCash-label{
+    font-size: 20px;
+}
+
+.totalCash-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+
+.totalCash-in, .totalCash-out{
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+    border-radius: 5px;
+
+}
+
+.totalCash-in{
+    background-color: #07cbf2;
+}
+
+.totalCash-out{
+    background-color: #40ed5d;
+}
+
+.totalCash-stackedBar{
+    text-align: center;
+    margin-top: 20px;
+}

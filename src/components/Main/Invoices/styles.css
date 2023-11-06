@@ -1,0 +1,31 @@
+.invoice-main{
+    padding-bottom: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.invoice-header{
+    padding : 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.invoice-label{
+    font-size: 20px;
+}
+
+.invoice-btn{
+    border-radius: 5px;
+    background-color: #0202021f;
+    padding: 12px;
+    font-size: 14px;
+    color: #40ed5d;
+    font-weight: 700;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.invoice-barChart{
+
+}

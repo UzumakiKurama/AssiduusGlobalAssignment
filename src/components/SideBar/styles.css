@@ -1,0 +1,39 @@
+.sideBar-main{
+    background-color: white;
+}
+
+.sideBar-logoWrapper{
+}
+
+.sideBar-logo{
+    height: 100px;
+    width: 200px;
+    padding-left: 25px;
+}
+
+.sideBar-menuWrapper{
+    margin-top: 20px;
+}
+.sideBar-menu {
+    padding-top: 20px;
+    list-style: none;
+}
+
+.sideBar-menuItem{
+    padding: 20px 60px;
+    font-size: 14px;
+    font-weight:600;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sideBar-menuItem-label{
+    padding-left: 25px;
+}
+
+.selected {
+    background-color: #40ed5d;
+    color: white;
+}

@@ -1,0 +1,43 @@
+.lineChart-main{
+    padding-bottom: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.lineChart-header{
+    padding : 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lineChart-label{
+    font-size: 20px;
+}
+
+.lineChart-buttons > select{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: #0202021f;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.lineChart-buttons > select:focus {
+    outline: none;
+}
+
+.lineChart-buttons > select:hover {
+    cursor: pointer;
+}
+
+.lineChart-graph{
+    color: #0202021f;
+    font-weight: bold;
+}
+
+hr{
+    background-color: white;
+}

@@ -1,0 +1,43 @@
+.header-main{
+    background-color: white;
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+
+.header-searchInputWrapper{
+    background-color: #e8ebe9;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.header-searchInput{
+    font-size: 18px;
+    padding: 5px;
+    background-color: #e8ebe9;
+    border: none;
+}
+
+.header-searchInput:focus{
+    outline: none;
+    border: none;
+}
+
+.header-notification{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.header-profile{
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+}
+.header-profileImage{
+    height: 37px;
+    width: 40px;
+    border-radius: 50%;
+}
